@@ -4,3 +4,6 @@ joblib
 scikit-learn
 Pillow
 sqlite3
+wordcloud
+matplotlib
+seaborn
